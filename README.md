@@ -1,1 +1,1 @@
-thi is directory folder 
+my first readme updated  
